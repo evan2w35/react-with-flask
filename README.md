@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I followed the instructions described [HERE](https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project).
 
 ## Available Scripts
 
